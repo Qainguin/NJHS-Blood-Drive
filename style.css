@@ -19,6 +19,7 @@ body {
   background-color: var(--dark);
   margin: 0px;
   overflow: hidden;
+  overflow-scrolling: none;
 }
 
 .side {
